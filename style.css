@@ -1,0 +1,50 @@
+body {
+    background-image: url(img/tlo.jpg);
+}
+
+html,body{
+    height: 100%;
+}
+
+.contener{
+    background-color: #A2FFAF;
+    width: 75%;
+    margin: auto;
+}
+
+.logo{
+    background-color: white;
+    width: 25%;
+    float: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    line-height: 10px;
+    font-size: 20px;
+    padding: 0px;
+}
+
+.menu{
+    background-color: white;
+    width: 100%;
+    text-align: right;
+    padding: 30px;
+}
+
+h2{
+    color:violet;
+}
+
+.form{
+    clear: both;
+}
+
+legend{
+    color: violet;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+
